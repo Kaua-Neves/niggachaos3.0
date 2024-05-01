@@ -3,7 +3,7 @@
 :root {
     --cor-de-fundo: #f80101c4;
     --verde: #fafbfb;
-    --branco: #f90202;
+    --branco: #000000;
     --botao-ativo: #f6f6fa;
     --botao-inativo: rgba(235, 14, 29, 0.5);
     --texto-fundo: rgba(2, 1, 8, 0.3);
@@ -12,7 +12,7 @@
 body {
     background-color: var(--cor-de-fundo);
     color: var(--branco);
-    font-family: 'Cinzel', sans-serif;
+    font-family: 'godofwar', sans-serif;
 }
 
 
@@ -38,7 +38,7 @@ body {
 
 
 .botao {
-    font-family: 'Cinzel', sans-serif;
+    font-family: 'godofwar', sans-serif;
     background-color: var(--botao-inativo);
     color: var(--branco);
     display: flex;
